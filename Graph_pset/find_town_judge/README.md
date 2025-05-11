@@ -15,7 +15,7 @@ labeled bi. If a trust relationship does not exist in trust array, then such a t
 
 Return the label of the town judge if the town judge exists and can be identified, or return -1 otherwise.
 
-Savio's Solution Complexity Analysis
+# Savio's Solution Complexity Analysis
 
 First off, I start by making constructing the indegree and outdegree dictionarys which costs `O(n)` each
 
