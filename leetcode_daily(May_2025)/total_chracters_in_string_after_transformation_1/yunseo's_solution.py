@@ -1,4 +1,6 @@
-# First solution: Time limit
+#total_characters_in_string_after_transformation/yunseo's_solution.py
+# 
+# # First solution: Time limit
 #
 #  class Solution:
 #     def lengthAfterTransformations(self, s: str, t: int) -> int:
