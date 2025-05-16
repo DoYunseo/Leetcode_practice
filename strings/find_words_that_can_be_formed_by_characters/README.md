@@ -1,4 +1,4 @@
-1160. Find Words That Can Be Formed by Characters
+# 1160. Find Words That Can Be Formed by Characters
 
 You are given an array of strings `words` and a string `chars`.
 
