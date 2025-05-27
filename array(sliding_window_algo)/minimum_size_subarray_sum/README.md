@@ -5,3 +5,7 @@ Given an array of positive integers `nums` and a positive integer `target`, retu
 # Savio's Time Complexity Analysis
 
 Time complexity is `O(n)`
+
+# Yunseo's Time Complexity Analysis
+
+Time complexity is 'O(n)'
