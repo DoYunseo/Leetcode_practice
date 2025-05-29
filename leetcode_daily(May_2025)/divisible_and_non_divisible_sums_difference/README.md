@@ -11,3 +11,8 @@ Return the integer `num1 - num2`.
 # Savio's Complexity Analysis
 
 The runtime of my solution is `O(n)`
+
+# Yunseo's Complexity Analysis
+
+The runtime of my solution is `O(n)`.
+because it uses a single `for` loop that iterates over the array of length `n`
