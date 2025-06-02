@@ -10,3 +10,6 @@ Return a _string representing the type of triangle that can be formed or `"none"
 
 # Savio's solution complexity analysis
 
+# Yunseo's solution complexity analysis
+The runtime of my solution is `O(1)`
+Since the number of operations does not scale up, which is always 3. 
