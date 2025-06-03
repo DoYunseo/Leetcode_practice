@@ -9,3 +9,8 @@ You are given a string `title` consisting of one or more words separated by a si
 # Savio's Complexity Analysis
 
 Time complexity of the solution is dependent on the length of the title, once we split it by the space, we trim it down, so essentially the time complexity is `O(length of title)`
+
+# Yunseo's Complexity Analysis
+
+The time complexity of my solution is `O(n)`, where n = title.length().
+Because the function processes each character in the input string exactly once through splitting, transforming, and joining.
