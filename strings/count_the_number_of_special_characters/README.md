@@ -10,3 +10,8 @@ Space complexity: `O(n)`
 Time complexity: `O(L)`
 
 where `L` is the length og the `word`
+
+# Yunse's complexity Analysis
+
+Time complexity: `O(n)`
+where 'n' is length of the 'word'
