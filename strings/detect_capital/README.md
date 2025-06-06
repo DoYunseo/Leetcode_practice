@@ -10,3 +10,7 @@ Given a string `word`, return `true` if the usage of capitals in it is right.
 # Savio's Time Complexity Analysis
 
 For each check it is one pass through the string which comes down to `O(n)`, where `n` is the length of the `string`
+
+# Yunseo's Time Complexity Analysis
+
+Time complexity: `O(n)` where 'n' is the length of the string 'word'
