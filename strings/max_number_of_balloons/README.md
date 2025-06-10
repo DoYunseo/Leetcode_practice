@@ -7,3 +7,7 @@ You can use each character in `text` **at most once**. Return the maximum number
 # Savio's solution complexity analysis:
 
 In the worst case, the time complexity is `O(5)` where `5` is the number of **unique** characters in balloon.
+
+# Yunseo's solution complexity analysis
+
+The time complexity is `O(n)`, where n is the length of the input string text, since it processes each character once and performs constant-time dictionary operations.
