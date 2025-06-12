@@ -8,3 +8,7 @@ You are given a 0-indexed, strictly increasing integer array `nums` and a positi
 Return the number of unique **arithmetic triplets**.
 
 # Savio's Complexity Analysis
+
+# Yunseo's Complexity Analysis
+Time complexity: O(n^3) 
+Because it uses three nested loops to check all possible triplets in the list.
