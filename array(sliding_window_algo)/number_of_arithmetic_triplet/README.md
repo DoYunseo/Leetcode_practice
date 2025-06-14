@@ -12,3 +12,7 @@ Return the number of unique **arithmetic triplets**.
 # Yunseo's Complexity Analysis
 Time complexity: O(n^3) 
 Because it uses three nested loops to check all possible triplets in the list.
+
+# Yunseo's ver.2 Complexity Analysis
+Time complexity: O(n) 
+Because it iterates through the list once and performs constant-time set lookups for each element.
