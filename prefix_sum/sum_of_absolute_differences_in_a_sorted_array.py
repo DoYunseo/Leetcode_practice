@@ -1,4 +1,5 @@
 from typing import List
+#solved it, and removed it
 class Solution:
     def getSumAbsoluteDifferences(self, nums: List[int]) -> List[int]:
         n = len(nums)
