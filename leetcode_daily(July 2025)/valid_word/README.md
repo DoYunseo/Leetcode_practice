@@ -19,3 +19,8 @@ A **consonant** is an English letter that is not a vowel.
 
 - Space complexity: `O(n)` - space for set and hashmap
 - Time complexity: `O(n)` - single loop through `str`
+
+# Yunseo's complexity analysis
+
+- Time complexity: `O(n)` - single loop through str word
+- Space complexity: `O(1)` - only a fixed number of variables are used
