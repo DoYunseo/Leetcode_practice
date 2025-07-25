@@ -7,3 +7,8 @@ You are allowed to delete any number of elements from nums without making it emp
 All elements in the subarray are unique.
 The sum of the elements in the subarray is maximized.
 Return the maximum sum of such a subarray.
+
+# Savio's complexity
+
+- Time complexity O(n)
+- Space complexity: O(n)
