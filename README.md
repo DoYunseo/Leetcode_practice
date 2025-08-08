@@ -1,6 +1,6 @@
 
 # Leetcode_practice
-# LeetCode Daily Practice
+
 ## 🚀 What's This About?
 This repository is dedicated to daily LeetCode problem-solving and solution sharing. We're here to:
 * 📚 **Share our solutions** and learn from each other's thought processes.
