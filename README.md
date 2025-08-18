@@ -20,7 +20,7 @@ This repository is dedicated to daily LeetCode problem-solving and solution shar
 ```
 
 ## 🧑‍💻 Contributer
-- Fortune 
+- Fortune: Hey there, I'm learning a bit of network level programming. I tend to hop on a call weekly with Iris to learn more about Korea and to solve problems on Leetcode. I challenge myself each day to either learn a new algorithm or solve multiple problems using an algorithmic pattern to get an algorithm ingrained in memory.
 
 - Yunseo Do(Iris): Hiii leetcoders👋 I'm doing AI research, but I wanted to leverage my algorithm skill set. Looking forward to how much we can level up.
 
