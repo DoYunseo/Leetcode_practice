@@ -7,3 +7,7 @@ We will send a signal from a given node k. Return the minimum time it takes for 
 # Yunseo's complexity analysis
 Time complexity: O(E logN) - where E is the number of edges and N is the number of nodes
 Space complexity: O(N + E) - for the graph and distance tracking
+
+# Savio's complexity analysis
+Time complexity: `O(V + E)`
+Space complexity: `O(n)`
