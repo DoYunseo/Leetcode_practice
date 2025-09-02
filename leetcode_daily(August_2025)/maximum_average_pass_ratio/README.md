@@ -7,3 +7,8 @@ You are also given an integer extraStudents. There are another extraStudents bri
 The pass ratio of a class is equal to the number of students of the class that will pass the exam divided by the total number of students of the class. The average pass ratio is the sum of pass ratios of all the classes divided by the number of the classes.
 
 Return the maximum possible average pass ratio after assigning the extraStudents students. Answers within 10-5 of the actual answer will be accepted.
+
+# Savio's Time Complexity Analysis
+
+- Time complexity: Constructing the heap took `O(n)` time. The heapifying process though took `O(n log n)` thus, the overall time complexity for the solution is `O(n log n)`
+- Space complexity: `O(n)` the heap utilised this space.
