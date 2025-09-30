@@ -14,3 +14,8 @@ Return the triangular sum of nums.
 
 - Time Complexity: `O(n)`
 - Space Complexity: `O(n)`
+
+# Yunseo's Complexity Analysis
+
+- Time Complexity: `O(n^2)` - nested for loop
+- Space Complexity: `O(n)` - space for newNums
