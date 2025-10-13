@@ -6,7 +6,12 @@ The operation of drinking a full water bottle turns it into an empty bottle.
 
 Given the two integers numBottles and numExchange, return the maximum number of water bottles you can drink.
 
-# Complexity Analysis
+# Savio's Complexity Analysis
 
 Time complexity: `O(log n)`
 Space complexity: `O(1)`
+
+# Yunseo's complexity analysis
+
+- Time complexity: O(LogN)
+- Space complexity: O(1)
