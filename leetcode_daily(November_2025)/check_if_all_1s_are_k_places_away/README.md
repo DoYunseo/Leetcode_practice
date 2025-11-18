@@ -1,3 +1,1 @@
-1437. Check If All 1's Are at Least Length K Places Away
-
-Given an binary array nums and an integer k, return true if all 1's are at least k places away from each other, otherwise return false.
+1437. Check if All 1's Are at Least Length k Places away
