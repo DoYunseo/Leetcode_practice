@@ -13,3 +13,7 @@ Return the final value of original.
 
 - Time complexity: `O(n)` in the worst case every value in the set is a multiple of the original hence we go up to `n`
 - Space complexity: `O(n)` using the set to store the values again
+
+# Yunseo's complexity Analysis
+- Time complexity: O(N): goes through len(nums), which is n in the worst case
+- Space complexity: O(1): not using any additional space
