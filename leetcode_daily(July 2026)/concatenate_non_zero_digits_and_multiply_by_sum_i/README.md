@@ -12,3 +12,7 @@ Return an integer representing the value of x \* sum.
 
 - Time Complexity: `O(n)`
 - Space Complexity: `O(1)`
+
+## Yunseo's complexity analysis
+- Time complexity: O(N) - where N is the length of n
+- Space complexity: O(N) where N is the length of n
